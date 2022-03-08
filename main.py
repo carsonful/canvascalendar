@@ -16,6 +16,7 @@ import quotes
 import keys
 import pytextnow
 import time
+import weather
 
 # creates pytextnow object
 client = pytextnow.Client(
@@ -49,10 +50,20 @@ def sendmessage():
         x = Assignments[i][0] +r"\n" + Assignments[i][1] 
 
         # addition of assignments for one string 
+        if i == 0:
+            fullmess = fullmess + r"\n"*2 + 'Assignments Due:' + r"\n" + x  
         fullmess = fullmess + r"\n"*2 + x 
-    
+    fullmess = fullmess + r"\n"*2
+
+    for i in range(len(weather.getweather())):
+        x = weather.getweather()
+        if i == 0:
+            fullmess = fullmess + r"\n"*2 + x[0][0] + r"\n"
+        else:
+            x = weather.getweather()
+            fullmess = fullmess + r"\n" + x[i][0] + x[i][1]
     # adds a quote to the full message string
-    fullmess = fullmess + r"\n"*2 + quotes.getrandomquote()
+    fullmess = fullmess + r"\n"*2 + quotes.getrandomquote() 
 
     # sends the message to the user 
     client.send_sms(keys.phone,fullmess)
