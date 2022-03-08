@@ -24,3 +24,7 @@ name = ''
 schoolurl = ''
 #Your Canvas accounts token Profile>Settings>Token>Generate Token or refer to canvas documentation
 accounttoken = ''
+#Weather api key that gets the weather in your area
+weatherapikey = ''
+#city of the area you want to get the weather from
+weathercity = ''
