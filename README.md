@@ -98,9 +98,9 @@ To be able to execute this code you will need **these** modules:
 ---
 
 ## References
-[CanvasAPI](https://github.com/ucfopen/canvasapi) Docs
-[PyTextNow](https://github.com/leogomezz4t/PyTextNow_API) Docs
-[OpenWeatherAPI](https://openweathermap.org/guide) Docs
+- [CanvasAPI](https://github.com/ucfopen/canvasapi) Docs
+- [PyTextNow](https://github.com/leogomezz4t/PyTextNow_API) Docs
+- [OpenWeatherAPI](https://openweathermap.org/guide) Docs
 
 
 [Back To The Top](#canvas-assignment-messenger)
