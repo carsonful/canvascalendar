@@ -140,7 +140,7 @@ SOFTWARE.
 - LinkedIn - [Carson Fulmer](https://www.linkedin.com/in/carsonfulmer/)
 - Website - [Carson Fulmer](http://carsonfulmer.com)
 
-[Back To The Top]([Back To The Top](#canvas-assignment-messenger)
-)
+[Back To The Top](#canvas-assignment-messenger)
+
 
 
