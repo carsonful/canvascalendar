@@ -24,6 +24,8 @@ All sections regarding this repository.
 Full tutorial:
 https://www.youtube.com/watch?v=b05p2Rhmn4w
 
+---
+
 ## Description
 
 This program allows for users to acquire their To-Do Assignments on Canvas and 
