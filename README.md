@@ -10,7 +10,7 @@
 
 ### Table of Contents
 All sections regarding this repository.
-
+- [Tutorial](#tutorial)
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
@@ -18,6 +18,11 @@ All sections regarding this repository.
 - [Author Info](#author-info)
 
 ---
+
+## Tutorial
+
+Full tutorial:
+https://www.youtube.com/watch?v=b05p2Rhmn4w
 
 ## Description
 
