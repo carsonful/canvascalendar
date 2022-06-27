@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=b05p2Rhmn4w
 This program allows for users to acquire their To-Do Assignments on Canvas and 
 have a message be sent through SMS as well as giving the weather, and a motivational 
 quote. This program does not run on it's own. I suggest using a crontab on a VM to 
-achieve equivelant output.
+achieve equivalent output.
 
 For example:
 
